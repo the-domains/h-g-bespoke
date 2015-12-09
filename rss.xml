@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[H.G.Bespoke.]]></title>
+        <description><![CDATA[H.G.Bespoke.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 09:30:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[H.G.B, THE LEGACY OF AN ARTIST.]]></title>
+            <description><![CDATA[<article><h1>H.G.B, THE LEGACY OF AN ARTIST.</h1><p>Welcome to my new page H.G.Bespoke.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61dd8112-304b-4a97-b044-c8045861c60a.jpg"></article>]]></description>
+            <link>undefineda0b7e26c-dd47-475c-bbb2-bb1ef0b3b76e/index.html</link>
+            <guid isPermaLink="false">a0b7e26c-dd47-475c-bbb2-bb1ef0b3b76e</guid>
+            <pubDate>Wed, 09 Dec 2015 09:30:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
