@@ -1,7 +1,7 @@
 name: H.G.Bespoke
 favicon: null
 layout_spectrum: 0.955656360834837
-typography_spectrum: 0.60402
+typography_spectrum: 0.43368
 title: H.G.Bespoke.
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.1875
   lightness: 0.9085520850494504
   saturation: 0.125
-  rhythmicContrast: 0.29695407929830253
+  rhythmicContrast: 0.5
 purpose: []
