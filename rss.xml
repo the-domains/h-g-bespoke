@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[H.G.Bespoke.]]></title>
         <description><![CDATA[H.G.Bespoke.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/h-g-bespoke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 09:30:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 09:55:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/h-g-bespoke/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6edba4ed-f210-422a-beb5-72c2fa04ede3.jpg">]]></description>
+            <link>https://thegrid.ai/h-g-bespoke/81034925-c1b3-47d1-8c1a-fb601dfd1b2f/index.html</link>
+            <guid isPermaLink="false">81034925-c1b3-47d1-8c1a-fb601dfd1b2f</guid>
+            <pubDate>Wed, 09 Dec 2015 09:54:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[H.G.B, THE LEGACY OF AN ARTIST.]]></title>
-            <description><![CDATA[<article><h1>H.G.B, THE LEGACY OF AN ARTIST.</h1><p>Welcome to my new page H.G.Bespoke.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61dd8112-304b-4a97-b044-c8045861c60a.jpg"></article>]]></description>
-            <link>undefineda0b7e26c-dd47-475c-bbb2-bb1ef0b3b76e/index.html</link>
+            <description><![CDATA[<article><h1>H.G.B, THE LEGACY OF AN ARTIST.</h1><p>Welcome to my new page H.G.Bespoke.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22cce44b3e8f15788a8eca6e17eb12903df562ed.jpg"></article>]]></description>
+            <link>https://thegrid.ai/h-g-bespoke/a0b7e26c-dd47-475c-bbb2-bb1ef0b3b76e/index.html</link>
             <guid isPermaLink="false">a0b7e26c-dd47-475c-bbb2-bb1ef0b3b76e</guid>
             <pubDate>Wed, 09 Dec 2015 09:30:07 GMT</pubDate>
         </item>
